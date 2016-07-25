@@ -1,0 +1,9 @@
+D:\myCode\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.pdb
+D:\myCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.pdb
+D:\myCode\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.exe.config
+D:\myCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.csprojResolveAssemblyReference.cache
+D:\myCode\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.exe
+D:\myCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.exe
+D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.exe.config
+D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.exe
+D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.pdb
