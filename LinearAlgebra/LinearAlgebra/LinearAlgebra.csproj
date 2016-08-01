@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1E8E508C-1DCB-4B0E-ABFB-1575210F17C3}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LinearAlgebra</RootNamespace>
     <AssemblyName>LinearAlgebra</AssemblyName>
@@ -75,7 +75,6 @@
     <Compile Include="MatrixAlgebra\Utility.cs" />
     <Compile Include="MatrixAlgebra\OutputResult.cs" />
     <Compile Include="MatrixAlgebra\SpecialMatrices.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VectorAlgebra\Vector.cs" />
     <Compile Include="VectorAlgebra\VectorComputation.cs" />

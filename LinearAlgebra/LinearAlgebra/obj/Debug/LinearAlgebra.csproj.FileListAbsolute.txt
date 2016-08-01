@@ -4,6 +4,9 @@ D:\myCode\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.exe.config
 D:\myCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.csprojResolveAssemblyReference.cache
 D:\myCode\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.exe
 D:\myCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.exe
-D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.exe.config
-D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.exe
 D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.pdb
+D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.pdb
+D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.csprojResolveAssemblyReference.cache
+D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.dll.config
+D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\bin\Debug\LinearAlgebra.dll
+D:\myCode\CSharpCode\LinearAlgebra\LinearAlgebra\obj\Debug\LinearAlgebra.dll
