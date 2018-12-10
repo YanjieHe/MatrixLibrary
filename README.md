@@ -8,5 +8,3 @@ The main algorithms in the matrix library are as followings:
 - Conjugate Gradient
 - Gauss Elimination
 - Linear Least Squares
-
-Since the numerical calculation packages on the .Net platform are very limited, some developers used this library as a lightweight choice.
